@@ -11,7 +11,7 @@
         sum += i;
         i++;
       }
-      document.write(sum);
+      document.write("The sum of 1 to 100 is " + sum);
     </script>
   </body>
 </html>
